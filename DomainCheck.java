@@ -2,7 +2,7 @@ import com.hp.hpl.jena.query.*;
 import com.hp.hpl.jena.rdf.model.RDFNode; //for list type RDFnode
 import java.util.*; //for list
 //import java.io.*; //for output streams
-public class tester {
+public class DomainCheck {
   // System.out.println(key + ": " + Collections.frequency(result, key) + "  " + k);
 if(max < k){
                  max = k;
